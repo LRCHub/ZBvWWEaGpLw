@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "南無阿弥だいすき",
+  "base_artist": "あすくーる",
+  "createdAt": "2026-02-14T08:46:54.601304Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "南無阿弥だいすき (feat. saewool & 柿崎ユウタ)",
+      "artist": "Uscool",
+      "has_synced": false,
+      "path": "select/pl_01_南無阿弥だいすき_(feat._saewool_&_柿崎ユウタ)_Uscool.txt"
+    }
+  ]
+}
